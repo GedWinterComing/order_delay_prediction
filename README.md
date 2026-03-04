@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is an interactive Machine Learning WebApp built with Python and Streamlit. Its primary goal is to predict potential shipping delays before they occur, providing a risk-assessment tool for supply chain and operational managers. 
 
-The project was developed during the **Data Scientist Academy (Adecco @ Crif, Nov-Dec 2025)** by Gabriele Coppini, Gaia Guerra, Simone Morelli, and Umberto Schiavone.
+The project was developed during the **Academy Data Scientist (Adecco @ Crif, Nov-Dec 2025)** by Gabriele Coppini, Gaia Guerra, Simone Morelli, and Umberto Schiavone.
 
 ## 💼 Business Problem
 In modern companies, delivery management is increasingly risk-averse. Anticipating a potential delay is an economically and strategically prudent choice to prevent:
