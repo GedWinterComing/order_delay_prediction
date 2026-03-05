@@ -12,7 +12,7 @@ In modern companies, delivery management is increasingly risk-averse. Anticipati
 * Loss of customer trust and reputational damage
 
 ## 📊 Data & Feature Engineering
-The dataset was sourced from the *Kaggle Datathon 2022 UPC - Accenture*, comprising over 114,000 records. 
+The dataset was sourced from the *Kaggle Datathon 2022 UPC - Accenture*, comprising over 114,000 records. https://www.kaggle.com/competitions/prueba-competencia/data
 
 To improve model performance, extensive feature engineering was applied:
 * **Categorical Feature Fusion:** Combined features to capture specific logistical bottlenecks (e.g., Route + Courier, Courier + Customs procedures).
