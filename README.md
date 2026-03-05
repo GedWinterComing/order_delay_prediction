@@ -30,6 +30,6 @@ The final product is a Streamlit dashboard allowing users to input new shipment 
 The app outputs the probability of delay and categorizes the risk level, enabling proactive operational interventions.
 
 ## 🛠️ Tech Stack
-* **Language:** Python
-* **Machine Learning:** CatBoost, Scikit-learn, Pandas, NumPy
-* **Deployment & UI:** Streamlit
+* **Language:** Python.
+* **Machine Learning:** CatBoost, Scikit-learn, Pandas, NumPy.
+* **Deployment & UI:** Streamlit.
