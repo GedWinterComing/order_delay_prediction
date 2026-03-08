@@ -29,7 +29,7 @@ Several models were evaluated to beat the Logistic Regression baseline, includin
 ## 🖥️ The WebApp
 The final product is a Streamlit dashboard allowing users to input new shipment details (Origin Port, Logistic Hub, Customer City, Courier, Weight, etc.) and instantly receive a prediction. 
 The app outputs the probability of delay and categorizes the risk level, enabling proactive operational interventions.
-https://orderdelaypredictionn4gpqgztxjmw8bycb4cyq4.streamlit.app/
+https://orderdelayprediction-n4gpqgztxjmw8bycb4cyq4.streamlit.app/
 
 ## 🛠️ Tech Stack
 * **Language:** Python.
