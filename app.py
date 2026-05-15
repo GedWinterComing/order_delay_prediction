@@ -490,7 +490,7 @@ if os.path.exists(LOG_FILE):
         return f'background-color: {color}'
 
     st.dataframe(
-        df.style.applymap(highlight_late, subset=['Model Prediction']),
+        df.style.map(highlight_late, subset=['Model Prediction']),
         use_container_width=True, 
         hide_index=True
     )
